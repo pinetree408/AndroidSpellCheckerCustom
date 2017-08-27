@@ -1,2 +1,2 @@
 # AndroidSpellCheckerCustom
-> android spell checker sample client for app
+> android spell checker sample client
